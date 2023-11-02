@@ -3,8 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Django developer
 ----------------
-<p align="left"> <img src="https://www.facebook.com/photo.php?fbid=3532577246966250&set=pb.100006420272353.-2207520000&type=3&label=Profile%20views&color=0e75b6&style=flat" alt="kgkhalidd" /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kgkhalidd&label=Profile%20views&color=0e75b6&style=flat" alt="kgkhalidd" /> </p>
 * 🌍  I'm based in Mansoura
 * ✉️  You can contact me at [khaledgamal1345@gmail.com](mailto:khaledgamal1345@gmail.com)
 * 🧠  I'm learning Django
