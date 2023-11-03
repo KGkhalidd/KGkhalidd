@@ -8,7 +8,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/kgkhalidd/count.svg" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
