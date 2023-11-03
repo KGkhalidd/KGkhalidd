@@ -1,3 +1,10 @@
+[![Account: Facebook](https://img.shields.io/badge/Khaled%20Gamal-Facebook-3B5998)](https://www.facebook.com/kgkhalidd)
+[![Account: LinkedIn](https://img.shields.io/badge/Khaled%20Gamal-LinkedIn-0077b5)](https://www.linkedin.com/in/kgkhalidd/)
+[![Account: Twitter](https://img.shields.io/badge/Khaled%20Gamal-Twitter-0084b4)](https://twitter.com/kgkhalidd)
+[![Account: Instagram](https://img.shields.io/badge/Khaled%20Gamal-Instagram-966842)](https://www.instagram.com/kgkhalidd/)
+[![Account: GitHub](https://img.shields.io/badge/Khaled%20Gamal-GitHub-2b3137)](https://www.github.com/kgkhalidd/)
+
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=20F75E&background=FF895100&center=true&random=false&width=435&lines=Hello+Everyone+%F0%9F%91%8B;This+is+Khaled+Gamal.;A+Django+Backend+Developer." alt="Typing SVG" /></a>
 ![dino](https://github.com/KGkhalidd/KGkhalidd/assets/112904221/46e84712-af1a-4ace-8f3b-c1c8517ebc7a)
 <p align="center"> 
