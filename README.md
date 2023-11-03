@@ -11,9 +11,10 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/kgkhalidd/count.svg" />
 </p>
-- 🌱 I’m currently learning **Django**
 
-- 📫 How to reach me **khaledgamal1345@gmail.com**
+🌱 I’m currently learning **Django**
+
+📫 How to reach me **khaledgamal1345@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
