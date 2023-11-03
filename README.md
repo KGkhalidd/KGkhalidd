@@ -2,15 +2,16 @@
 <h1 align="center">Hi 👋, I'm Khaled Gamal</h1>
 <h3 align="center">A passionate backend developer.</h3>
 
-
-- 🌱 I’m currently learning **Django**
-
-- 📫 How to reach me **khaledgamal1345@gmail.com**
-
+![dino](https://github.com/KGkhalidd/KGkhalidd/assets/112904221/46e84712-af1a-4ace-8f3b-c1c8517ebc7a)
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/kgkhalidd/count.svg" />
 </p>
+- 🌱 I’m currently learning **Django**
+
+- 📫 How to reach me **khaledgamal1345@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
