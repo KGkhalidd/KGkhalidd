@@ -1,7 +1,4 @@
-
-<h1 align="center">Hi 👋, I'm Khaled Gamal</h1>
-<h3 align="center">A passionate backend developer.</h3>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74299&center=true&random=false&width=435&lines=Hello+Everyone+%F0%9F%91%8B;My+name+is+Khaled+Gamal;A+Django+Developer." alt="Typing SVG" /></a>
 ![dino](https://github.com/KGkhalidd/KGkhalidd/assets/112904221/46e84712-af1a-4ace-8f3b-c1c8517ebc7a)
 <p align="center"> 
   Visitor count<br>
