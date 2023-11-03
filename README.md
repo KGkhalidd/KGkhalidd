@@ -14,7 +14,7 @@
 
 <h4 align="left">🌱 I’m currently learning **Django**</h4>
 
-<h4 align="left">📫 How to reach me **khaledgamal1345@gmail.com**</h4>
+📫 How to reach me</h4> **khaledgamal1345@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
