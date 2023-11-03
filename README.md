@@ -12,7 +12,7 @@
   <img src="https://profile-counter.glitch.me/kgkhalidd/count.svg" />
 </p>
 
-<h4 align="left">🌱 I’m currently learning **Django**</h4>
+🌱 I’m currently learning **Django**
 
 📫 How to reach me</h4> **khaledgamal1345@gmail.com**
 
