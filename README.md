@@ -14,9 +14,9 @@
 </p>
 <br>
 <hr><br>
-<h3>🌱 I’m currently learning <a href="https://www.w3schools.com/django/django_intro.php">DJANGO</a></h3>
+<h3>🌱 I’m currently learning <a href="https://www.w3schools.com/django/django_intro.php">->DJANGO</a></h3>
 
-<h3>📫 Wanna reach me ? <a href="https://khaledgamal1345@gmail.com">KG</a></h3>
+<h3>📫 Wanna reach me ? <a href="https://khaledgamal1345@gmail.com">->KG</a></h3>
 
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
 
